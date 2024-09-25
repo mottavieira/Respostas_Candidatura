@@ -1,0 +1,5 @@
+Ligaria o interruptor A e o deixaria ligado por algum tempo, até que a lâmpada correspondente esquentasse.
+Após isso, ligaria o interruptor B e apagaria o interruptor A, deixando apenas o B aceso.
+Por fim, visitaria duas salas sabendo que podeira identificar as três imediatamente:
+A que estivesse com a lâmpada acesa seria a sala B, a que estivesse com a lâmpada apagada porem quente seria a sala A, e a que estivesse com a lâmpada apagada e fria seria a sala C.
+Sendo assim, com apenas duas visitas poderia identificar as salas visitadas, e portanto saber qual é a sala restante.
